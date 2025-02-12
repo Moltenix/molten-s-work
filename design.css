@@ -1,0 +1,33 @@
+body{
+    background-color: burlywood;
+}
+
+header{
+	background-color: lightslategray;
+	padding: 15px;
+	font-size: 30px;
+	font-family: Arial;
+	color: white;
+	border-radius: 10px;
+}
+
+iframe{
+	background-image: url('nocedo.jpg');
+	background-position: center;
+	background-size: cover;
+	height: 575px;
+	width: 100%;
+	float: center;
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+}
+
+footer{
+	background-color: gray;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 25px;
+	padding: 5px;
+	font-family: Arial Light;
+}
